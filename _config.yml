@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Adi Giniwala
 
 # Your name to show in the footer
-author: Some Person
+author: Adity (Adi) Giniwala
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -50,21 +50,21 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "giniwala@msu.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  # facebook: deanattali
+  github: giniwala
+  # twitter: daattali
+  # patreon: DeanAttali
+  # youtube: "@daattali"
+  # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+#  linkedin: adiginiwala
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+ instagram: adiginiwala
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -86,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website is a brief introduction to Adi Giniwala. I hope you enjoy!
 
 ###########################
 # --- General options --- #
@@ -94,15 +94,15 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  # twitter: true
+  # facebook: true
   linkedin: true
-  vk: false
-  reddit: false
+  # vk: false
+  # reddit: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -114,7 +114,7 @@ excerpt_length: 50
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+# feed_show_tags: true
 
 # Add a search button to the navbar
 post_search: true
@@ -136,18 +136,29 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+# page-col: "#FFFFFF"
+# text-col: "#404040"
+# link-col: "#008AFF"
+# hover-col: "#0085A1"
+# navbar-col: "#EAEAEA"
+# navbar-text-col: "#404040"
+# navbar-border-col: "#DDDDDD"        
+# footer-col: "#EAEAEA"
+# footer-text-col: "#777777"
+# footer-link-col: "#404040"
+# footer-hover-col: "#0085A1"
 
+page-col: "#ffffff"           # background
+text-col: "#18392b"           # darkest for body text (best readability)
+link-col: "#588b76"           # strong but not too dark
+hover-col: "#85aa9b"          # lightens on hover
+navbar-col: "#d0ded8"         # muted light green-gray for navbar
+navbar-text-col: "#18392b"    # good contrast against navbar-col
+navbar-border-col: "#85aa9b"  # subtle border
+footer-col: "#d0ded8"         # match navbar for consistency
+footer-text-col: "#18392b"    # same as body text
+footer-link-col: "#588b76"    # match links
+footer-hover-col: "#85aa9b"   # lighter hover
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
@@ -260,7 +271,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Detroit"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
