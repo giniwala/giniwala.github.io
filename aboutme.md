@@ -17,7 +17,7 @@ subtitle: Aditya (Adi) Giniwala -->
 
 **Michigan State University** – Eli Broad College of Business & College of Engineering  
 **Bachelor of Arts in Finance**, Minor in Computer Science — *May 2027*  
-- GPA: 3.22 | Major GPA: 4.00  
+- GPA: 3.22  
 - Relevant Coursework: Financial & Managerial Accounting, Economics, C++, Python, Multivariable Calculus, Statistical Methods
 
 ---
