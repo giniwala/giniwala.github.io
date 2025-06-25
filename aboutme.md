@@ -1,9 +1,9 @@
-
-
-<!-- ---
+---
 layout: page
 title: Resume
-subtitle: Aditya (Adi) Giniwala -->
+subtitle: Resume
+---
+
 ---
 
 📍 **East Lansing, MI**  
