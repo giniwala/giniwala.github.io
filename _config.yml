@@ -20,7 +20,7 @@ author: "Aditya (Adi) Giniwala"
 ###############################################
 
 navbar-links:
-  Home: ""
+  Home: "/"
   Resume: "aboutme"
   Essays: "essays"
   
