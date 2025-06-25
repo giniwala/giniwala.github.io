@@ -21,8 +21,8 @@ author: "Aditya (Adi) Giniwala"
 
 navbar-links:
   Home: "/"
-  Resume: "aboutme"
-  Essays: "essays"
+  Resume: "/aboutme"
+  Essays: "/essays"
   
 
 ################
